@@ -4,8 +4,7 @@
 🎯 Passionate about **turning raw data into actionable insights**  
 
 🔗 **Portfolio**: [github.com/Saumyasingh-26](#) | 📧 **Contact**: Saumya.singh9710@gmail.com  
-
-- 🔗 LinkedIn: [linkedin.com/in/saumya-singh-927692183](https://linkedin.com/in/saumya-singh-927692183)
+🔗 LinkedIn: [linkedin.com/in/saumya-singh-927692183](https://linkedin.com/in/saumya-singh-927692183)
 
 ## 🚀 Skills & Tools  
 💾 SQL (MySQL, BigQuery)  

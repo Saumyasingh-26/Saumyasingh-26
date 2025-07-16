@@ -5,6 +5,8 @@
 
 🔗 **Portfolio**: [github.com/Saumyasingh-26](#) | 📧 **Contact**: Saumya.singh9710@gmail.com  
 
+- 🔗 LinkedIn: [linkedin.com/in/saumya-singh-927692183](https://linkedin.com/in/saumya-singh-927692183)
+
 ## 🚀 Skills & Tools  
 💾 SQL (MySQL, BigQuery)  
 📊 Power BI, Tableau  
@@ -34,10 +36,6 @@
 - **Business Intelligence & Financial Data Insights**  
 - How to create **data-driven decision-making frameworks**  
 
-📫 **How to reach me:**  
-- 📧 Email: saumya.singh9710@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/saumya-singh-927692183](https://linkedin.com/in/saumya-singh-927692183)  
-- 📂 GitHub Portfolio: [github.com/Saumyasingh-26](https://github.com/)  
 
 😄 **Pronouns:** She/Her  
 

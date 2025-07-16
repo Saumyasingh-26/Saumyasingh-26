@@ -6,7 +6,7 @@
 🔗 **Portfolio**: [github.com/Saumyasingh-26](#) | 📧 **Contact**: Saumya.singh9710@gmail.com  
 
 ## 🚀 Skills & Tools  
-💾 SQL (MySQL, PostgreSQL, BigQuery)  
+💾 SQL (MySQL, BigQuery)  
 📊 Power BI, Tableau  
 🐍 Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib)  
 🌍 Google Cloud Platform (GCP)  

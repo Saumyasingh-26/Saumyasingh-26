@@ -3,12 +3,12 @@
 💻 **Data Analyst** | 📊 **Power BI | 🛢 SQL | 🧠 Machine Learning**  
 🎯 Passionate about **turning raw data into actionable insights**  
 
-🔗 **Portfolio**: [yourwebsite.com](#) | 📧 **Contact**: your.email@example.com  
+🔗 **Portfolio**: [github.com/Saumyasingh-26](#) | 📧 **Contact**: Saumya.singh9710@gmail.com  
 
 ## 🚀 Skills & Tools  
 💾 SQL (MySQL, PostgreSQL, BigQuery)  
 📊 Power BI, Tableau  
-🐍 Python (Pandas, NumPy, Scikit-Learn)  
+🐍 Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib)  
 🌍 Google Cloud Platform (GCP)  
 
 🔭 **I’m currently working on:**  
